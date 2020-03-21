@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Enviroment>
+
+<BrowserType>chrome</BrowserType>
+
+
+<URL>https://web2.0calc.com/</URL>
+
+<ChromeDriverPath>./drivers/chromedriver.exe</ChromeDriverPath>
+<FFDriverPath>./drivers/geckodriver.exe/</FFDriverPath>
+<IEDriverPath>./drivers/IEDriverServer.exe/</IEDriverPath>
+
+
+<!--Report -->
+<ReportFilePath>C:/QA/Automation/Reports/</ReportFilePath>
+<ReportForMail>C:/QA/Automation/Reports/TestReport.html</ReportForMail>
+<ReportFileName>TestReport_</ReportFileName>
+<SSpath>C:/QA/Automation/Reports/</SSpath>
+</Enviroment>
+
