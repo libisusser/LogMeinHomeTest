@@ -104,16 +104,7 @@ public class test1 extends base
 	}
 		
 		
-		/*
-		commonOps.insertText(HP.serachField, "selenuBtnPlusim", "serachField");
-		commonOps.clickOrChose(HP.searchTerm, "searchTerm");
-		commonOps.clickOrChose(RP.searchCountry, "searchCountry");
-		commonOps.insertText(RP.searchCountryText, "Israel", "searchCountryText");
-		commonOps.clickOrChose(RP.searchTermCountry, "searchTermCountry");
-		commonOps.scroll(); //for the screen shot for the report
-		commonOps.assertTextInList(RP.subregionsList, "Tel Aviv", CP.relatedQueries, "Hmm, your search doesn't have enough data to show here.");
-	
-	*/
+		
 
 
 	
