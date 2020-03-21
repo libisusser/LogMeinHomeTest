@@ -65,7 +65,7 @@ public class commonOps extends base
 
 			elem.click();
 			System.out.println(string + " " + "is clicked");
-			test.log(LogStatus.PASS, string + " " + "is clicked");
+			test.log(LogStatus.PASS, string + " " + "is clicked"); //The string tell more information in the repot abot the element that was failed.
 		}
 
 		catch (Exception e)
