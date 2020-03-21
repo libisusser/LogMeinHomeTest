@@ -15,10 +15,6 @@ Add 'JAVA_HOME' to your environment variables ("C:\Program Files\Java\jdk1.8.0_2
 
 Maven installation instructions : http://maven.apache.org/install.html
 
-*Run Tests*
-
-can run with mvn "mvn test -PSanity"
-
 *Report*
 
 All the reprort files and path should be configured on your computer.
