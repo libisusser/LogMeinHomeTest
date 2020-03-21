@@ -15,7 +15,7 @@ Maven installation instructions : http://maven.apache.org/install.html
 
 Run Tests
 
-can run with mvn "mvn test -PSanity
+can run with mvn "mvn test -PSanity"
 
 All the reprort files and path should be configured on your computer.
 
